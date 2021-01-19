@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Builder.BlueLagoone">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAABACAAAAAASAAAAAAAAAAAA=</HashCode>
+      <FileName>BlueLagoone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Cocktail">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAgAAAAAAAAAEAAAAAAACAAAAAAAAAAAAAAAIQAA=</HashCode>
+      <FileName>Cocktail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.CocktailBase">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAABACAAAAAASABAAAAAAAQAA=</HashCode>
+      <FileName>CocktailBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Mojito">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAABACAAAAAASAAAAAAAAAAAA=</HashCode>
+      <FileName>Mojito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.PinaColada">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAABACAAAAAASAAAAAAAAAAAA=</HashCode>
+      <FileName>PinaColada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Program">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
